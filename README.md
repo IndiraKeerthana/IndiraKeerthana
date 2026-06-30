@@ -14,5 +14,7 @@ a digital privacy tool, and somehow teach Git to everyone
 around me along the way.
 
 📝 I write about my journey on [Dev.to](https://dev.to/indirakeerthana)
+
 🌍 My community work → [Tech Community](https://github.com/IndiraKeerthana/Tech-Community)
+
 💼 [LinkedIn](https://www.linkedin.com/in/indira-keerthana-pulla/)
