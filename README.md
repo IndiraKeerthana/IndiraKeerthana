@@ -10,8 +10,7 @@ I'm someone who'd rather discover and experiment with
 something new than stay comfortable with what I already know.
 
 So far that's led me to build a carbon footprint tracker,
-a digital privacy tool, and somehow teach Git to everyone
-around me along the way.
+a digital privacy tool, and a stock trading platform along the way.
 
 📝 I write about my journey on [Dev.to](https://dev.to/indirakeerthana)
 
